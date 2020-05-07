@@ -23,5 +23,9 @@ The following are the labs along with a description of the instructions and the 
  3. lifeontherock_mjv893-1.zip (10/20):
   Create a game based on the specified requirements in the Life on the Rock document
  
- 4. ():
+ 4. Lab Twilio (20/20):
+  Testing instructions are included in the zip file. Please make sure to follow it to understand the functionality of this lab
+  
+ 5. (/):
+ 
  
