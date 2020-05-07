@@ -23,9 +23,20 @@ The following are the labs along with a description of the instructions and the 
  3. lifeontherock_mjv893-1.zip (10/20):
   Create a game based on the specified requirements in the Life on the Rock document
  
- 4. Lab Twilio (20/20):
+ 4. Lab Twilio.zip (20/20):
   Testing instructions are included in the zip file. Please make sure to follow it to understand the functionality of this lab
   
- 5. (/):
+ 5. rock_javascript_lab_part1.zip (14/15):
+  Please open the HTML file to explore the functionality of this lab
+  
+ 6. rock_javascript_lab_part2.zip (8.31/20):
+   Please open the HTML file to explore the functionality of this lab. Please note that you may have to open the HTML file a couple of times for it to work properly. This is the reason why this lab earned such a low score.
+
+ 7. rock_javascript_lab_part3.zip (20/20):
+  Please open the HTML file to explore the functionality of this lab
  
- 
+ 8. PLSQL_BankLab.sql (10/10):
+  Please note that you will not be able to run this code as it requires you to be connected to UT's network and database. For security reasons, this information cannot be released.
+  
+ 9. PLSQL_MetadataLab.sql (10/10):
+   Please note that you will not be able to run this code as it requires you to be connected to UT's network and database. For security reasons, this information cannot be released.
