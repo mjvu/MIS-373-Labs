@@ -22,7 +22,7 @@ The following are the labs along with a description of the instructions and the 
   odometer: Print all possible odometer values that match the conditions specified
   
  3. lifeontherock_mjv893-1.zip (10/20):
-  Create a game based on the specified requirements in the Life on the Rock document
+  Create a game based on the specified requirements in the Life on the Rock document. I was only able to fulfill half of the requirements for the game which explains my low score.
  
  4. Lab Twilio.zip (20/20):
   Testing instructions are included in the zip file. Please make sure to follow it to understand the functionality of this lab
