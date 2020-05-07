@@ -20,4 +20,8 @@ The following are the labs along with a description of the instructions and the 
   palindrome: Prompt user to enter a string and check if it's a palindrome or not
   odometer: Print all possible odometer values that match the conditions specified
   
- 3. 
+ 3. lifeontherock_mjv893-1.zip (10/20):
+  Create a game based on the specified requirements in the Life on the Rock document
+ 
+ 4. ():
+ 
